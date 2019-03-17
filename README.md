@@ -2,6 +2,7 @@
 Welcome to Spl0it!
 Version 0.4
 -----------------
+PLEASE EXTRACT FILES BEOFRE USING THE FILE OTHERWISE IT WONT WORK!
 FAQ:
 (What is Spl0it?)
 * Spl0it is a program by MrSleekZ!
