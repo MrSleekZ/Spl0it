@@ -1,5 +1,6 @@
 # Spl0it
 Welcome to Spl0it!
+Version 0.4
 -----------------
 FAQ:
 (What is Spl0it?)
