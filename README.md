@@ -24,3 +24,5 @@ The files are stored anywhere you choose!
 BUT, if you ran the HARMFUL option accidently, go to the startup folder and it should be there! (Press Ctrl + R, type 'Shell:startup'.)
 --------------------------------------------------
 Thank you for using Spl0it and Enjoy! ;)
+
+Upcoming features: MacOS and Chromebook support.
