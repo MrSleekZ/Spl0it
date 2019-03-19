@@ -1,6 +1,5 @@
 # Spl0it
 Welcome to Spl0it!
-Version 0.5
 -----------------
 FAQ:
 (What is Spl0it?)
@@ -26,3 +25,10 @@ BUT, if you ran the HARMFUL option accidently, go to the startup folder and it s
 Thank you for using Spl0it and Enjoy! ;)
 
 Upcoming features: MacOS and Chromebook support.
+
+V.01 - Added a basic looper
+V.02 - Fixed code and added color
+V.03 - Added README
+V.04 - Added 'explorer killer'
+V.05 - Fixed code
+V.06 - Added VBS script and VSS script
