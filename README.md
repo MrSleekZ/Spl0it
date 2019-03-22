@@ -27,8 +27,15 @@ Thank you for using Spl0it and Enjoy! ;)
 Upcoming features: MacOS and Chromebook support.
 
 V.01 - Added a basic looper
+
 V.02 - Fixed code and added color
+
 V.03 - Added README
+
 V.04 - Added 'explorer killer'
+
 V.05 - Fixed code
+
 V.06 - Added VBS script and VSS script
+
+V0.7 - Added a better first UI for Spl0it, More Payloads (added 5 more) and bug fixes
