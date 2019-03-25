@@ -39,3 +39,5 @@ V.05 - Fixed code
 V.06 - Added VBS script and VSS script
 
 V0.7 - Added a better first UI for Spl0it, More Payloads (added 5 more) and bug fixes
+
+V0.8 - Added 'RAMEater'
