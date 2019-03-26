@@ -3,7 +3,7 @@ Welcome to Spl0it!
 -----------------
 FAQ:
 (What is Spl0it?)
-* Spl0it is a program by MrSleekZ!
+* Spl0it is a program by MrSleekZ and Levi_mcc!
 * Spl0it is (to be) a looping program that loops the Command Prompt while killing the spring board..
 
 (How do I stop it?)
