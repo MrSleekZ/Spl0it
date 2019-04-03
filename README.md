@@ -26,20 +26,21 @@ Thank you for using Spl0it and Enjoy! ;)
 
 Upcoming features: MacOS and Chromebook support.
 
-V.01 - Added a basic looper
+Change log:
+V.01 - Spl0it BETA is released!
 
-V.02 - Fixed code and added color
+V.02 - Added Payloads and HARMFULL
 
-V.03 - Added README
+V.03 - Added 'explorer killer'
 
-V.04 - Added 'explorer killer'
+V.04 - Added 'RamEater'
 
-V.05 - Fixed code
+V.05 - Added VBS scripts
 
-V.06 - Added VBS script and VSS script
+V.06 - Added more powerful Payloads  
 
-V0.7 - Added a better first UI for Spl0it, More Payloads (added 5 more) and bug fixes
+V.07 - Added Spl0it splash screen
 
-V0.8 - Added 'RAMEater'
+V.08 - Added 'VSSScriptSpam', fixed bugs
 
-V0.9 - Added 'KeyboardLooper' and 'CDLooper', fixed credits.
+V.09 - 'KeyboardTROLL' and 'CDTroll'
