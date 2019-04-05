@@ -13,7 +13,7 @@ FAQ:
 2. Use an Antivirus that has a 'Safe files' feature or 'Application block' and add Spl0it.
 
 (Is it malware?)
-No, Spl0it uses a basic windows script to run the program and the payloads.
+No, Spl0it uses .cmd, .vbs and .bat scripts. However, some components may be detected as malware!
 
 (What is the diffrence between Harmless and HARMFUL?)
 The diffrence Harmless and HARMFUL is huge and important for you to know, Harmless, kills the springboard and loops the Command prompt until you restart you computer, HARMFUL on the other hand, does the same thing but everytime you boot your computer, Spl0it will run. 
@@ -44,3 +44,5 @@ V.07 - Added Spl0it splash screen
 V.08 - Added 'VSSScriptSpam', fixed bugs
 
 V.09 - 'KeyboardTROLL' and 'CDTroll'
+
+V.1.0 - Spl0it is out of BETA!
