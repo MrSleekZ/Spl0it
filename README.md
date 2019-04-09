@@ -45,4 +45,4 @@ V.08 - Added 'VSSScriptSpam', fixed bugs
 
 V.09 - 'KeyboardTROLL' and 'CDTroll'
 
-V.1.0 - Spl0it is out of BETA!
+V.1.0 - Spl0it is out of BETA! (WILL BE OUT ON 14/04/19)
