@@ -27,6 +27,7 @@ Thank you for using Spl0it and Enjoy! ;)
 Upcoming features: MacOS and Chromebook support.
 
 Change log:
+
 V.01 - Spl0it BETA is released!
 
 V.02 - Added Payloads and HARMFULL
