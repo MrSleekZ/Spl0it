@@ -59,4 +59,4 @@ V.09 - 'KeyboardTROLL' and 'CDTroll'
 
 V.1.0 - Spl0it is out of BETA! 
 
-V.1.3 - Added more Payloads, added Spl0it BigB0i.
+V.1.3 - Added more Payloads, bug fixes
