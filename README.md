@@ -1,4 +1,4 @@
-#Hello and welcome to Spl0it!
+Hello and welcome to Spl0it!
 ---------------------------------------------
 FAQ:
 1. (What is Spl0it?)
@@ -62,3 +62,7 @@ V.1.3 - Added more Payloads, bug fixes
 V.1.4 - Added ASCII art to Spl0it
 
 V.1.5 - Added a voiceover
+
+V.1.6 - Added Spl0it Anonymous
+
+V.1.7 - Combined Spl0it Anonymous and Spl0it
