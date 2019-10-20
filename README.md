@@ -1,6 +1,5 @@
 Hello and welcome to Spl0it!
 ---------------------------------------------
-BROKEN!
 FAQ:
 1. (What is Spl0it?)
 * Spl0it is a program by MrSleekZ and Levi_Mcc!
