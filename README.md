@@ -66,3 +66,7 @@ V.1.5 - Added a voiceover
 V.1.6 - Added Spl0it Anonymous
 
 V.1.7 - Combined Spl0it Anonymous and Spl0it
+
+V.1.9 - Fixed bugs and spelling errors, added wallpaper changer.
+
+V.2.0 - Unreleased (Will have a proper GUI)
