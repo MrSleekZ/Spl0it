@@ -29,7 +29,16 @@ If the attacker is using it for malicious intentions, it will most likely be in 
 There are two startup folders.
 1. The system's - Click the windows key + R, type 'shell: startup common' to get to the system's Startup folder. (ADMIN REQUIRED!).
 2. The users - Click the windows key + R, type 'shell: startup' to get to the user's Startup folder.
---------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+How to download:
+1. Go to '[Releases](https://github.com/MrSleekZ/Spl0it/releases).
+2. Select the latest version.
+3. Download.
+4. Extract the .zip file.
+5. Use the .exe
+6. Run Spl0it.com
+7. Have fun ;)
+--------------------------------------------------------------------------------------------------------------------------------------
 For more information, visit [GitHub Page](https://github.com/MrSleekZ/Spl0it/). or contact me on [Twitter](https://twitter.com/mrsleekz).
 Thank you for using Spl0it and Enjoy! ;)
 
