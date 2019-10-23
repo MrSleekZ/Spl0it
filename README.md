@@ -30,7 +30,7 @@ There are two startup folders.
 1. The system's - Click the windows key + R, type 'shell: startup common' to get to the system's Startup folder. (ADMIN REQUIRED!).
 2. The users - Click the windows key + R, type 'shell: startup' to get to the user's Startup folder.
 --------------------------------------------------
-For more information, visit www.github.com/mrsleekz/spl0it or contact me on [Twitter](https://twitter.com/mrsleekz).
+For more information, visit [GitHub Page](https://github.com/MrSleekZ/Spl0it/). or contact me on [Twitter](https://twitter.com/mrsleekz\).
 Thank you for using Spl0it and Enjoy! ;)
 
 Upcoming features: MacOS and Chromebook support.
