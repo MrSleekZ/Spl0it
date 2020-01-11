@@ -78,4 +78,4 @@ V.1.7 - Combined Spl0it Anonymous and Spl0it
 
 V.1.9 - Fixed bugs and spelling errors, added wallpaper changer.
 
-V.2.0 - Unreleased (Will have a proper GUI)
+V.2.0 - Semi-released, isn't working but is a bit of a preview of what is to come.
